@@ -15,3 +15,5 @@ https://data.worldbank.org/indicator/SP.POP.0014.TO?end=2017&locations=KH-VN-PH-
 ## 乳幼児死亡率との関連
 
 2016年のミャンマーの出生率は2.21、ネパールの出生率は2.12だ。しかし、乳幼児死亡率(5歳までに亡くなる確率)はミャンマーが[1000人中49人、ネパールが33人](https://data.worldbank.org/indicator/SH.DYN.MORT?locations=MM-NP)。ミャンマーでは20人に1人の子供が、ネパールでは30人に1人の子供が、5歳になるまでに亡くなっている。これが理由で、出生率が2.1以上でも子供の人口が減っているのかもしれない。
+
+余談だが、[平成がはじまった1989年のミャンマーの乳幼児死亡率は1000人中118人で、ネパールでは1000人中148人だった](https://data.worldbank.org/indicator/SH.DYN.MORT?end=2017&locations=MM-NP&start=1989)。平成の30年間で大幅に改善したというわけだ。
