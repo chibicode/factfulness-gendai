@@ -11,3 +11,7 @@
 - ベトナム 約2182万人→約2203万人 (0.96%増)
 
 https://data.worldbank.org/indicator/SP.POP.0014.TO?end=2017&locations=KH-VN-PH-ID-TH-MM-NP-MN-CN&start=2016&view=chart
+
+## 乳幼児死亡率との関連
+
+2016年のミャンマーの出生率は2.21、ネパールの出生率は2.12だ。しかし、乳幼児死亡率(5歳までに亡くなる確率)はミャンマーが[1000人中49人、ネパールが33人](https://data.worldbank.org/indicator/SH.DYN.MORT?locations=MM-NP)。ミャンマーでは20人に1人の子供が、ネパールでは30人に1人の子供が、5歳になるまでに亡くなっている。これが理由で、出生率が2.1以上でも子供の人口が減っているのかもしれない。
