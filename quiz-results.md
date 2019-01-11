@@ -1,6 +1,6 @@
 # クイズの結果
 
-![](poll-results.png)
+![](poll-results-v2.png)
 
 ## クイズを出題したツイートとFacebookのリンク
 
